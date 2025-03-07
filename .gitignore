@@ -1,8 +1,1 @@
-#Ignora as pastas
 temp/
-
-#Para ignorar arquivos
-#arquivo.txt
-
-#Para ignorar um tipo de arquivo independente do nome
-#*.css
