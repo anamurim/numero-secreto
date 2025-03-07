@@ -1,14 +1,11 @@
-# **Jogo do número secreto**
+<h1>Jogo do número secreto</h1>
+<h2>🔖 Sobre</h2>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
-## **Sobre**
-O jogo do número secreto é um projeto desenvolvido e utilizado nos cursos de Lógica de Programação e Git e GitHub da ALURA.  
-  
-O objetivo do jogo é que o jogador acerte através de uma quantidade ilimitada de chutes um número secreto.  
-O número secreto é um número entre 1 e 50 escolhido aleatoriamente pelo próprio jogo e muda a cada novo jogo.  
-Para auxiliar o usuário, a cada chute com um número diferente do número secreto, o jogo informa ao usuário se o 
-número é maior ou menor que o número secreto.  
-Ao acertar o jogador obtém como resposta o número secreto e a quantidade de tentativas até o acerto.
+## 🚀 Tecnologias
 
-## **Tecnologias**
-O projeto foi desenvolvidos utilizando as seguintes tecnologias:  
-HTML5, CSS3 e JavaScript.
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
