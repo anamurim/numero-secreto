@@ -10,4 +10,5 @@ número é maior ou menor que o número secreto.
 Ao acertar o jogador obtém como resposta o número secreto e a quantidade de tentativas até o acerto.
 
 ## **Tecnologias**
-O projeto foi desenvolvidos utilizando as seguintes tecnologias: HTML, CSS e JavaScript.
+O projeto foi desenvolvidos utilizando as seguintes tecnologias:  
+HTML5, CSS3 e JavaScript.
